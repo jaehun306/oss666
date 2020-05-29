@@ -13,5 +13,6 @@ public class HomeActivity extends AppCompatActivity {
 
         // 홈화면
         // 추천목록 띄울예정입니다.
+        // 테스트
     }
 }
